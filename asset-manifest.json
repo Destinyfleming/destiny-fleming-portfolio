@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/destiny-fleming-portfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/destiny-fleming-portfolio/static/js/main.85a77617.chunk.js",
+    "main.js.map": "/destiny-fleming-portfolio/static/js/main.85a77617.chunk.js.map",
+    "runtime-main.js": "/destiny-fleming-portfolio/static/js/runtime-main.6b47d7bf.js",
+    "runtime-main.js.map": "/destiny-fleming-portfolio/static/js/runtime-main.6b47d7bf.js.map",
+    "static/js/2.d53923b5.chunk.js": "/destiny-fleming-portfolio/static/js/2.d53923b5.chunk.js",
+    "static/js/2.d53923b5.chunk.js.map": "/destiny-fleming-portfolio/static/js/2.d53923b5.chunk.js.map",
+    "static/js/3.a34ae551.chunk.js": "/destiny-fleming-portfolio/static/js/3.a34ae551.chunk.js",
+    "static/js/3.a34ae551.chunk.js.map": "/destiny-fleming-portfolio/static/js/3.a34ae551.chunk.js.map",
+    "index.html": "/destiny-fleming-portfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/destiny-fleming-portfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d53923b5.chunk.js.LICENSE.txt": "/destiny-fleming-portfolio/static/js/2.d53923b5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/destiny-fleming-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b47d7bf.js",
+    "static/js/2.d53923b5.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.85a77617.chunk.js"
+  ]
+}
